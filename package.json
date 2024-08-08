@@ -1,6 +1,6 @@
 {
-	"homepage": "https://abduls-dev.github.io/Tic-Tac-Toe/",
-	"name": "hello-world",
+	"homepage": "https://abduls-dev.github.io/tic-tac-toe/",
+	"name": "tic-tac-toe",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
@@ -37,5 +37,8 @@
 			"last 1 firefox version",
 			"last 1 safari version"
 		]
+	},
+	"devDependencies": {
+		"gh-pages": "^6.1.1"
 	}
 }
